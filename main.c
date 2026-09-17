@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-    printf("banana");
+    printf("banana macaco");
 }
